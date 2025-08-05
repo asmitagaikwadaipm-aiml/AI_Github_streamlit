@@ -1,3 +1,0 @@
-panda as pd
-matplotlib.pyplot as plt
-seaborn as sb
