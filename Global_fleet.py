@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sb
 
 # Load the dataset (adjust the path as needed)
-df = pd.read_csv('../Datasets/Global_Fleet.csv')
+df = pd.read_csv('Global_Fleet.csv')
 
 # Fill NaN values with 0
 df = df.fillna(0)
